@@ -3,9 +3,9 @@
 
 ## Education
 - Master of Information and Data Science|University of California, Berkeley August 2023
-- Doctor of Philosophy (Ph.D.)|Petroleum Eng. Texas A&M University 
-- Master of Engineering (M.Eng.)|Petroleum Eng. Texas A&M University
-- Bachelor of Science (B.S.)|Petroleum Eng. Universidad Central de Venezuela
+- Ph.D., Petroleum Eng.|Texas A&M University 
+- M.Eng., Petroleum Eng.|Texas A&M University
+- B.S., Petroleum Eng|Universidad Central de Venezuela
 
 ## Projects
 ### Unified model for Structured Sentiment Analysis.
