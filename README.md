@@ -1,4 +1,4 @@
-# Data Scientist
+# Data Scientist, Petroleum Engineer.
 #### Technical Skills: Python, SQL, Deep Learning.
 
 ### Education
