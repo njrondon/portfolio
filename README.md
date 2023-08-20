@@ -2,10 +2,10 @@
 #### Technical Skills: Python, SQL, Deep Learning.
 
 ## Education
-- Master of Information and Data Science|University of California, Berkeley August 2023
-- Ph.D., Petroleum Eng.|Texas A&M University 
-- M.Eng., Petroleum Eng.|Texas A&M University
-- B.S., Petroleum Eng|Universidad Central de Venezuela
+- |Master of Information and Data Science|University of California, Berkeley August 2023
+- |Ph.D., Petroleum Eng.|Texas A&M University 
+- |M.Eng., Petroleum Eng.|Texas A&M University
+- |B.S., Petroleum Eng|Universidad Central de Venezuela
 
 ## Projects
 ### Unified model for Structured Sentiment Analysis.
