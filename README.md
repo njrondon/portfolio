@@ -14,7 +14,7 @@ Our project delivers in-depth sentiment insights from text by identifying not ju
 
 ### Predicting Flight Delays with Enhanced Data Analysis
 Commercial flight delays are not only frequent but also costly. Leveraging extensive flight data and weather insights, our team developed a cutting-edge prediction model to forecast U.S. domestic flight delays two hours prior to departure. Key to our success was integrating novel data features, showcasing the power of thorough data analysis.
-[Flight Delays](https://github.com/njrondon/w203_2020_election)
+[Flight Delays](https://github.com/njrondon/w261_Delay_Prediction)
 
 ### The Politics of Dating: How Political Affiliation Influences Match Rates
 In an era where political polarization is palpable, this study delves into its influence on modern dating decisions. By integrating political labels - conservative, liberal, or neutral - into dating profiles on popular apps like Hinge and Tinder, we aimed to discern any impact on match rates.
