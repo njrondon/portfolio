@@ -10,7 +10,7 @@
 ## Projects
 ### Unified model for Structured Sentiment Analysis.
 Our project delivers in-depth sentiment insights from text by identifying not just the sentiment's tone, but also its "Source" (who expresses it), "Target" (subject of sentiment), "Polar_expression" (specific sentiment descriptors), and "Polarity" (overall sentiment value). Harnessing advanced transformer models, our aim is a comprehensive system adept at analyzing real-world texts—ideal for applications like customer feedback, social media oversight, and market research.
-[Structured Sentiment Study](https://github.com/njrondon/w203_2020_election)
+[Structured Sentiment Study](https://github.com/njrondon/w210_GTS_sentiment)
 
 ### Predicting Flight Delays with Enhanced Data Analysis
 Commercial flight delays are not only frequent but also costly. Leveraging extensive flight data and weather insights, our team developed a cutting-edge prediction model to forecast U.S. domestic flight delays two hours prior to departure. Key to our success was integrating novel data features, showcasing the power of thorough data analysis.
